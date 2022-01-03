@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">eBreedings</string>
+
+    <!-- Strings related to login -->
+    <string name="title_1">eBreedings</string>
+    <string name="title_2">Plantation</string>
+    <string name="title_3">System</string>
+    <string name="prompt_user_id">User ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_estate">Estate</string>
+    <string name="action_log_in">Log in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Please enter the username</string>
+    <string name="invalid_password">Please enter the password</string>
+    <string name="invalid_estate">Please choose the estate</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_succeed">Login succeed</string>
+
+    <!-- Strings used for UI -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="home_fragment_label">Main Menu</string>
+    <string name="palm_info_fragment_label">Palm Information</string>
+    <string name="ffb_history_label">FFB Yield Rec. History</string>
+    <string name="veg_history_label">Vegetative Meas. History</string>
+    <string name="ffb_fragment_label">FFB Yield Recording</string>
+    <string name="veg_fragment_label">Vegetative Measurement</string>
+    <string name="sync_label">Synchronization</string>
+    <string name="barcode_scanner_label">Barcode Scanner</string>
+
+    <!-- Strings for general use -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="save">Save Data</string>
+    <string name="log_out">Log Out</string>
+    <string name="block_code">Block Code</string>
+
+    <!-- String for FFB Recording & Vegetative Measurement -->
+    <string name="palm_code">Palm Code</string>
+    <string name="date">Date</string>
+    <string name="num_fresh_bunch">No of Fresh Bunch</string>
+    <string name="weight_fresh_bunch">Weight of Fresh Bunch</string>
+    <string name="num_rotten_bunch">No of Rotten Bunch</string>
+    <string name="weight_rotten_bunch">Weight of Rotten Bunch</string>
+    <string name="round">Round</string>
+    <string name="supervisor_name">Supervisor Name</string>
+    <string name="surveyor_name">Surveyor Name</string>
+    <string name="leaf_sample_number">Leaf Sample Number</string>
+    <string name="palm_height_cm">Palm Height (cm)</string>
+    <string name="petiole_width_mm">Petiole Width (mm)</string>
+    <string name="petiole_thickness_mm">Petiole Thickness (mm)</string>
+    <string name="petiole_cross_section_cm2">Petiole Cross Section (cm2)</string>
+    <string name="sample_1">Sample 1</string>
+    <string name="sample_2">Sample 2</string>
+    <string name="sample_3">Sample 3</string>
+    <string name="sample_4">Sample 4</string>
+    <string name="sample_5">Sample 5</string>
+    <string name="sample_6">Sample 6</string>
+    <string name="length_mm">Length (mm)</string>
+    <string name="width_mm">Width (mm)</string>
+    <string name="num_leaflets">No of Leaflets</string>
+    <string name="frond_length_mm">Frond Length (mm)</string>
+    <string name="frond_production_mm">Frond Production (mm)</string>
+    <string name="leaf_area_m2">Leaf Area (m2)</string>
+    <string name="palm_trunk_circum">Palm Trunk Circum</string>
+
+    <!-- Strings for Palm Information -->
+    <string name="palm">Palm</string>
+    <string name="palm_number">Palm Number</string>
+    <string name="row_number">Row Number</string>
+    <string name="progeny_id">Progeny ID</string>
+    <string name="parental_male">Parental Male</string>
+    <string name="parental_female">Parental Female</string>
+    <string name="fruit_type">Fruit Type</string>
+    <string name="estate">Estate</string>
+    <string name="division">Division</string>
+    <string name="block_no">Block No</string>
+    <string name="trial_area">Trial Area</string>
+    <string name="yop">YOP</string>
+    <string name="mature_stage">Mature Stage</string>
+    <string name="palm_status">Palm Status</string>
+    <string name="max_bunches">Max Bunches</string>
+
+
+</resources>

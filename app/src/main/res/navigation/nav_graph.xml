@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/HomeFragment">
+
+    <fragment
+        android:id="@+id/HomeFragment"
+        android:name="com.wcs.ebreedings.ui.main.HomeFragment"
+        android:label="@string/home_fragment_label"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/PalmInformationFragment"
+        android:name="com.wcs.ebreedings.ui.palmInfo.PalmInformationFragment"
+        android:label="@string/palm_info_fragment_label"
+        tools:layout="@layout/fragment_palm_information" />
+
+    <fragment
+        android:id="@+id/FfbHistoryFragment"
+        android:name="com.wcs.ebreedings.ui.history.FfbHistoryFragment"
+        android:label="@string/ffb_history_label"
+        tools:layout="@layout/fragment_ffb_history" />
+
+    <fragment
+        android:id="@+id/VegHistoryFragment"
+        android:name="com.wcs.ebreedings.ui.history.VegHistoryFragment"
+        android:label="@string/veg_history_label"
+        tools:layout="@layout/fragment_veg_history" />
+
+    <fragment
+        android:id="@+id/FfbYieldRecordingFragment"
+        android:name="com.wcs.ebreedings.ui.ffbYieldRecording.FfbYieldRecordingFragment"
+        android:label="@string/ffb_fragment_label"
+        tools:layout="@layout/fragment_ffb_yield_recording" />
+
+    <fragment
+        android:id="@+id/VegMeasurementFragment"
+        android:name="com.wcs.ebreedings.ui.vegMeasurment.VegMeasurementFragment"
+        android:label="@string/veg_fragment_label"
+        tools:layout="@layout/fragment_veg_measurement" />
+
+</navigation>
